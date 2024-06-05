@@ -1,6 +1,6 @@
 # SmartWeb AI - AI Website Frontend
 
-![SmartWeb AI](https://www.imghippo.com/i/1UVfG1717574890.png)
+![SmartWeb AI](https://i.postimg.cc/G23X10c0/Screenshot-2024-06-05-133813.png)
 
 **SmartWeb AI** is a frontend project for an AI-driven website, designed with modern web technologies to deliver a sleek, responsive, and user-friendly interface. It leverages AI services to provide dynamic content, personalized user experiences, and intuitive interactions.
 
