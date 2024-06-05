@@ -38,16 +38,15 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/smartweb-ai.git
-Navigate to the project directory:
+   
+## Navigate to the project directory:
 bash
 Copy code
 cd smartweb-ai
 Install dependencies:
 bash
 Copy code
-npm install
-or
-bash
+npm install or bash
 Copy code
 yarn install
 Running the Development Server
@@ -87,11 +86,11 @@ or
 bash
 Copy code
 yarn test
-Contributing
+## Contributing
 We welcome contributions to enhance the project. Please fork the repository and create a pull request with a clear description of your changes.
 
-Credits
-This project is inspired by and credits the work of Adrian Hajdin. Thank you for your amazing contributions to the web development community!
+## Credits
+This project is inspired by and credits the work of Adrian Hajdin (https://github.com/adrianhajdin). Thank you for your amazing contributions to the web development community!
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
